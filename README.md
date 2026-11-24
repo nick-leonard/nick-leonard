@@ -39,6 +39,7 @@ meetup    Head of Data: 10 production ML models serving 60MM+ users
 |---|---|
 | [qsac](https://github.com/nick-leonard/qsac) | Amazon QuickSight as code: dashboards split into reviewable files and linted in CI against 31 rules, including PHI guards |
 | [reels-parser](https://github.com/nick-leonard/reels-parser) | Turns saved Instagram Reels into a searchable research inventory: Whisper transcription, Claude structured extraction with evidence on every reference, claim checks against GitHub READMEs |
+| [resume-builder](https://github.com/nick-leonard/resume-builder) | Tailors a resume to a job description with Claude structured outputs, behind a validation gate that rejects anything not in the source file |
 | [voice-visualizer](https://github.com/nick-leonard/voice-visualizer) | Browser waveform studio on the Web Audio API ([live demo](https://nick-leonard.github.io/voice-visualizer/)) |
 | [nickleonard.tech](https://github.com/nick-leonard/nickleonard.tech) | My personal site: one static page on Cloudflare Workers |
 | [iot_irrigation_ctrlr_servo](https://github.com/nick-leonard/iot_irrigation_ctrlr_servo) | ESP8266 servo that turns my irrigation controller dial over WiFi |
